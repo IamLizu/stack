@@ -1,0 +1,26 @@
+{
+    "name": "@iamlizu/stack",
+    "version": "1.0.0",
+    "description": "Stack implementation using Array. ",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/IamLizu/stack.git"
+    },
+    "keywords": [
+        "stack",
+        "data-structure"
+    ],
+    "author": "S. M. Mahmudul Hasan",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/IamLizu/stack/issues"
+    },
+    "homepage": "https://github.com/IamLizu/stack#readme",
+    "devDependencies": {
+        "jest": "^27.2.3"
+    }
+}
